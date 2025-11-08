@@ -23,6 +23,7 @@ export type PrimitiveSnippet =
 	| 'dropdown-menu'
 	| 'empty'
 	| 'field'
+	| 'file-upload'
 	| 'form-field'
 	| 'hover-card'
 	| 'icon'
