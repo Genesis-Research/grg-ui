@@ -68,7 +68,6 @@ body:
         - toggle
         - toggle-group
         - tooltip
-        - trpc
         - typography
         - Docs
         - Don't know / other

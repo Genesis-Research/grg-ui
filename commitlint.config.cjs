@@ -64,7 +64,6 @@ module.exports = {
 				'toggle',
 				'toggle-group',
 				'tooltip',
-				'trpc',
 				'typography',
 				'nx',
 				'repo',

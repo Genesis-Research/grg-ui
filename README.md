@@ -207,7 +207,7 @@ To add your own `e2e` tests add them to the `apps/ui-storybook-e2e` application.
 
 An example application running
 on [Supabase](https://supabase.com/), [Drizzle](https://orm.drizzle.team/), [Analog](https://analogjs.org/),
-[tRPC](https://trpc.io/), [Tailwind](https://tailwindcss.com/), [Angular](https://angular.io/),
+[Tailwind](https://tailwindcss.com/), [Angular](https://angular.io/),
 and [Nx](https://nx.dev/). It also serves as the documentation page introducing the stack and UI library.
 
 Follow the directions in the official documentation to set up your own project:

@@ -85,7 +85,6 @@ What kind of change does this PR introduce?
 
 ### Others
 
-- [ ] trpc
 - [ ] nx
 - [ ] repo
 - [ ] cli
